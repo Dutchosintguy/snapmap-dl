@@ -15,12 +15,6 @@
 
 
 ## Installation
-### Pip Install
-
-```pip3 install --user snapmap-dl```
-
-### Git Install
-
 ```bash
 # clone the repo
 $ git clone https://github.com/sdushantha/snapmap-dl.git
