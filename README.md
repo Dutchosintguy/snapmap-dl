@@ -20,7 +20,7 @@
 $ git clone https://github.com/sdushantha/snapmap-dl.git
 
 # change the working directory to snapmap-dl
-$ cd qr-filetransfer
+$ cd snapmap-dl
 
 # install the requirements
 $ pip3 install -r requirements.txt
