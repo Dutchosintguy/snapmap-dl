@@ -11,8 +11,8 @@ setuptools.setup(
     description='Download stories from SnapMap with and without filter/overlay',
     long_description=long_description,
     long_description_content_type='text/markdown',
-    url='https://github.com/sdushantha/gitdir',
-    py_modules=['gitdir'],
+    url='https://github.com/sdushantha/snapmap-dl',
+    py_modules=['snapmap-dl'],
     scripts=['snapmap-dl/snapmap-dl']
 )
 
